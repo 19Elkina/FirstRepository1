@@ -3,6 +3,8 @@
 #define m 4
 #define n 4
 int main(void)
+
+
 {
 	int i,j,k, imaxA, imaxB;
 	float A[m][n],maxA,maxB,C[m][n];
